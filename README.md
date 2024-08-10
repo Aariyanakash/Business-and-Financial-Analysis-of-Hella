@@ -1,28 +1,5 @@
 **BUSINESS AND FINANCIAL ANALYSIS OF HELLA**
 
-**Name: Arun Akash Jawahar**
-
-**Student Id: Q1036637**
-
-**October Intake, Group 1**
-
-**Date: 08/02/2023**
-
-Statement of compliance with academic ethics and the avoidance of
-plagiarism
-
-I honestly declare that this assignment is entirely my own work and none
-of its part has been copied from printed or electronic sources,
-translated from foreign sources and reproduced from essays of other
-resources or students. Wherever I have been based on ideas or other
-people texts I clearly declare it through the good use of references
-following academic ethics.
-
-**ARUN AKASH JAWAHAR**
-
-**08/02/2023\
-**
-
 <table border="0" cellpadding="0" cellspacing="0" width="483" style="">
   <thead>
     <tr height="21" style="height: 16pt;">
