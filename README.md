@@ -23,6 +23,25 @@ following academic ethics.
 **08/02/2023\
 **
 
+<table border="0" cellpadding="0" cellspacing="0" width="483" style="">
+  <thead>
+    <tr height="21" style="height: 16pt;">
+      <th>Document Name</th>
+      <th>Document Description</th>
+      <th>Reference Link</th>
+    </tr>
+  </thead><colgroup><col width="185" style="width: 139pt;"><col width="211" style="width: 158pt;"><col width="87" style="width: 65pt;"></colgroup>
+  <tbody>
+    <tr height="21" style="height: 16pt;">
+      <td height="21" class="xl63" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-top: none; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: 0.5pt solid windowtext; border-image: initial; text-wrap: nowrap; height: 16pt;">BFA.xlsx</td>
+      <td class="xl63" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-top: none; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: none; border-image: initial; text-wrap: nowrap;">The Excel file compares the financial performance of two entities, "HLE" and "CON," from 2018 to 2022, focusing on balance sheets, income statements, and cash flow statements. It includes detailed vertical analysis for financial ratios to facilitate in-depth comparison.</td>
+      <td class="xl63" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-top: none; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: none; border-image: initial; text-wrap: nowrap;"><a href="https://docs.google.com/spreadsheets/d/1seb87uk9JtFEfkU6DemIKpocWTNnG9yT/edit?usp=sharing&ouid=101120254477657136618&rtpof=true&sd=true"><img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="BFA Excel" width="100" height="50">
+</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
 **ABSTRACT**
 
 Hella is one of the leading Auto motive parts manufacturing companies,
@@ -831,6 +850,7 @@ After analysis the reports my suggestions for the companies are
 
 -   Leigh, D., 2009. SWOT analysis. *Handbook of Improving Performance
     in the Workplace: Volumes 1‐3*, pp.115-140.
+  
 
 -   Perera, R., 2017. *The PESTLE analysis*. Nerdynaut.
 
